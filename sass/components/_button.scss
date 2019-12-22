@@ -1,4 +1,6 @@
 
+
+
 .btn {
     &:link,
     &:visited {
@@ -48,12 +50,10 @@
         transition: all .4s;
     }
 
-    
-
-    
-
     &--animated {
         animation: moveInBottom .5s ease-out .75s;
         animation-fill-mode: backwards;
     }
 }
+
+
