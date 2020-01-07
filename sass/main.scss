@@ -7,12 +7,21 @@
 @import "base/typography";
 @import "base/utilities";
 
-@import "pages/home.scss";
+@import "pages/home";
 
-@import "components/button.scss";
-@import "components/composition.scss";
-@import "components/feature-box.scss";
+@import "components/button";
+@import "components/composition";
+@import "components/feature-box";
+@import "components/card";
+@import "components/story";
+@import "components/bg-videos";
+@import "components/book.scss";
+@import "components/form.scss";
 
-@import "layout/header.scss";
-@import "layout/grid.scss";
+@import "layout/header";
+@import "layout/grid";
+@import "layout/section-tours";
+@import "layout/section-stories";
+@import "layout/section-book.scss";
+
 
