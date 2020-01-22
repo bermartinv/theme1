@@ -2,7 +2,7 @@
 @import "abstracts/mixins";
 @import "abstracts/variables";
 
-@import "base/base";
+@import "base/base.scss";
 @import "base/animations";
 @import "base/typography";
 @import "base/utilities";
@@ -16,7 +16,7 @@
 @import "components/story";
 @import "components/bg-videos";
 @import "components/book.scss";
-@import "components/form.scss";
+@import "components/form";
 @import "components/popup.scss";
 
 @import "layout/header";
