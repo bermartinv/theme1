@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/bermartinv/theme1#readme",
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   },
   "dependencies": {
     "autoprefixer": "^9.7.3",
